@@ -1,0 +1,96 @@
+
+
+ /*háttérszín a topnavbarnak*/ 
+.topnav{
+    background-color: #333333;
+    overflow: hidden;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+    
+}
+/*linkek stilusai*/
+.topnav a {
+    float: right;
+    color: #ff0099;
+    text-align: center;
+    padding: 2%;
+    text-decoration-line: underline;
+    font-size: 20px;
+    /*padding-top: 2px;
+    padding-bottom: 2px;
+    
+    padding-left: ;
+    padding-right: ;*/
+}
+
+.links{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.links :hover{
+    color: mediumblue;
+}
+
+.links img{
+   /* padding-top: 2px;
+    padding-bottom: 2px;*/
+    padding: 1%;
+   
+    
+
+}
+.container{
+   
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+
+h1
+{
+    color: black; 
+    
+}
+h2{
+    color: rgb(255, 0, 179);
+}
+body{
+    background-image: url("/assets/hatterkep.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.container p{
+    font-family: 'Courier Prime', monospace;
+    font-size: 21px ;
+    
+    
+}
+.break{
+    text-align: center;
+}
+
+.definitions{
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: 'Courier Prime', monospace;
+
+
+}
+
+.definitions h2{
+    color: black; 
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+
+
+
+
+
